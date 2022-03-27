@@ -33,4 +33,4 @@ crypto_list = ["BTC", "ETH", "BNB", "USDT", "SOL", "ADA", "USDC", "XRP", "LUNA",
 
 #call the function and get the data 
 for from_currency in crypto_list:
-    get_data(from_currency)
+    get_data(from_currency) 
