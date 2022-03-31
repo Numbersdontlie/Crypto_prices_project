@@ -2,7 +2,6 @@ import streamlit as st
 import s3fs 
 import os 
 import pandas as pd 
-import matplotlib.pyplot as plt 
 import glob 
 import altair as alt
 
